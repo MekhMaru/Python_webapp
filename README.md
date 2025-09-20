@@ -1,6 +1,6 @@
 # Python_webapp
 
-<ins>**รายชื่อโปรแกรมที่ต้องติดตั้ง**</ins>
+<ins>รายชื่อโปรแกรมที่ต้องติดตั้ง</ins>
   <ins>Visual Studio Code</ins>
 > ดาวน์โหลด : https://code.visualstudio.com/download
   <ins>Python</ins>
