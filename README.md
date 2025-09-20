@@ -1,11 +1,11 @@
 # Python_webapp
 
 <ins>**รายชื่อโปรแกรมที่ต้องติดตั้ง**</ins>
-<ins> Visual Studio Code </ins>
+<ins>Visual Studio Code</ins>
 > ดาวน์โหลด : https://code.visualstudio.com/download
-<ins> Python </ins>
+<ins>Python</ins>
 > ดาวน์โหลด : https://www.python.org/downloads/
-<ins> MariaDB </ins>
+<ins>MariaDB</ins>
 > ดาวน์โหลด : https://www.apachefriends.org/download.html
 
 
