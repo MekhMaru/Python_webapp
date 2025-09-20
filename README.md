@@ -2,11 +2,11 @@
 
 <ins>รายชื่อโปรแกรมที่ต้องติดตั้ง</ins>
   <ins>Visual Studio Code</ins>
-> ดาวน์โหลด : https://code.visualstudio.com/download
+>ดาวน์โหลด : https://code.visualstudio.com/download
   <ins>Python</ins>
-> ดาวน์โหลด : https://www.python.org/downloads/
+>ดาวน์โหลด : https://www.python.org/downloads/
   <ins>MariaDB</ins>
-> ดาวน์โหลด : https://www.apachefriends.org/download.html
+>ดาวน์โหลด : https://www.apachefriends.org/download.html
 
 
   <ins>**ขั้นตอนการเตรียมพร้อม**</ins>
